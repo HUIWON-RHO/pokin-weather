@@ -1,4 +1,4 @@
-# pokin Weather
+# Pokin Weather
 
 Learning React Native by Building poking Weather App
 
