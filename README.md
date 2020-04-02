@@ -2,10 +2,8 @@
 
 Learning React Native by Building poking Weather App
 
-<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather1.jpg" width ="300">
-<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather2.jpg" width ="300">
-<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather3.jpg" width ="300">
-<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather4.jpg" width ="300">
+<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather1.jpg" width ="250"><img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather2.jpg" width ="250">
+<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather3.jpg" width ="250"><img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather4.jpg" width ="250">
 
 - [x] Expo
 - [x] Get expo location api
