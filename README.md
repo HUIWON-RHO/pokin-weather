@@ -2,6 +2,8 @@
 
 Learning React Native by Building poking Weather App
 
+<img src="https://github.com/HUIWON-RHO/pokin-weather/blob/master/images/weather.jpg">
+
 - [x] Expo
 - [x] Get expo location api
 - [x] Axios
